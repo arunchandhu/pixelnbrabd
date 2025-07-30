@@ -190,7 +190,7 @@
                   team truly understands how to connect with the audience and drive meaningful business growth.
                 </p>
                 <img src="assets/images/icons/user.png" alt="Aravind" />
-                <div id="image-caption">Aravind</div>
+                <h3 id="image-caption">Aravind</h3>
               </div>
             </div>
             <div class="carousel-item">
@@ -200,7 +200,7 @@
                   dedication helped us revamp our brand and increase customer engagement significantly.
                 </p>
                 <img src="assets/images/icons/user.png" class="img-fluid" alt="Jithu" />
-                <div id="image-caption">Jithu</div>
+                <h3 id="image-caption">Jithu</h3>
               </div>
             </div>
             <div class="carousel-item">
@@ -210,7 +210,7 @@
                   solutions and proactive approach delivered real, measurable results for our business.
                 </p>
                 <img src="assets/images/icons/user.png" class="img-fluid" alt="Anand" />
-                <div id="image-caption">Anand</div>
+                <h3 id="image-caption">Anand Sagar</h3>
               </div>
             </div>
           </div>
