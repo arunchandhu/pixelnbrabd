@@ -531,11 +531,13 @@ section {
   bottom: 0;
   left: -20px;
   width: 1px;
-  height: 100%;
+  height: auto;
   background: #777;
   display: flex;
   align-items: center;
   justify-content: center;
+  margin: 0;
+  padding: 0;
 
 
 }
@@ -556,9 +558,11 @@ section {
   bottom: 0;
   right: -20px;
   width: 1px;
-  height: 100px;
+  height: auto;
   background: #777;
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .service-items {
@@ -611,7 +615,19 @@ section {
   display: block;
   margin: 0 auto;
 }
+.why-choose-box{
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 20px;
+}
 
+.why-choose-box img{
+  width: 50px;
+}
+.img-filter {
+    filter: grayscale(1);
+    transition: filter 0.3s ease;
+  }
 /* CSS */
 .button-one {
   display: inline-flex;
@@ -1138,13 +1154,11 @@ input[type=number]::-webkit-outer-spin-button {
 
 .box {
   width: 100%;
-  min-height: 250px;
-  height: 100%;
+  min-height: 260px;
   padding: 30px 30px;
   background: linear-gradient(rgba(225, 225, 225, 0.15), rgba(225, 225, 225, 0.15));
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
   backdrop-filter: blur(10px);
-  margin-bottom: 30px;
   overflow: hidden;
   border-radius: 10px;
 }
@@ -1153,12 +1167,6 @@ input[type=number]::-webkit-outer-spin-button {
   text-align: start;
   padding-bottom: 10px;
 }
-
-.box p {
-  text-align: justify;
-}
-
-
 
 
 /* ========================= */

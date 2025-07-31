@@ -27,7 +27,7 @@
       <div class="row">
         <div class="col-md-6">
           <div class="hero-img">
-            <img src="assets/images/service/web-developing.webp" class="w-50" alt="">
+            <img src="assets/images/service/4.jpg" class="w-100" alt="">
           </div>
         </div>
         <div class="col-md-6">
@@ -58,6 +58,145 @@
           </div>
         </div>
       </div>
+    </div>
+  </section>
+
+   <!-- why choose -->
+  <section class="pb-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="service-content py-0 mb-4">
+            <div class="services-heading">
+              <h1>Why Choose Us?</h1>
+            </div>
+            <div class="services-sub-heading">
+              <p>
+                We merge analytics with creativity to build
+                digital strategies that not only perform,
+                but connect.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-8 col-md-12 mx-auto ">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="why-choose-box mb-5">
+              <div class="why-choose-img">
+                <img src="assets/images/service/setting.png" alt="">
+              </div>
+              <div class="why-choose-content">
+                <h3>Experienced Team</h3>
+                <p>Skilled designers, developers, and strategists working together to create impactful websites.</p>
+              </div>
+            </div>
+
+            <div class="why-choose-box mb-5">
+              <div class="why-choose-img">
+                <img src="assets/images/service/setting.png" alt="">
+              </div>
+              <div class="why-choose-content">
+                <h3>Tailored Solutions</h3>
+                <p>Every project is customized to fit your brand, industry, and audience.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="why-choose-box mb-5">
+              <div class="why-choose-img">
+                <img src="assets/images/service/setting.png" alt="">
+              </div>
+              <div class="why-choose-content">
+                <h3>Transparent Communication</h3>
+                <p>You stay informed throughout every stage of the project.</p>
+              </div>
+            </div>
+            <div class="why-choose-box mb-5">
+              <div class="why-choose-img">
+                <img src="assets/images/service/setting.png" alt="">
+              </div>
+              <div class="why-choose-content">
+                <h3> Focus on ROI</h3>
+                <p>We build websites designed to grow your business and increase conversions.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </section>
+
+  <!-- Testimonials -->
+  <?php include_once('./source/testimonial.php') ?>
+
+  <!-- Our Process  -->
+  <section class="pb-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="service-content work py-5">
+            <div class="services-sub-heading">
+              <p class="text-center text-md-end">
+                We create a clear, data-driven roadmap for digital
+                growth—built in close collaboration with your
+                team and tailored to your goals, audience, and market.
+              </p>
+            </div>
+            <div class="services-heading">
+              <h1>Our Process</h1>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-8 col-md-12 mx-auto ">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="why-choose-box mb-5">
+              <div class="why-choose-img">
+                <img src="assets/images/service/ethics.png" alt="">
+              </div>
+              <div class="why-choose-content">
+                <h3> Discovery &amp; Planning</h3>
+                <p>We start by understanding your business, target audience, and goals to create a detailed project plan.</p>
+              </div>
+            </div>
+
+            <div class="why-choose-box mb-5">
+              <div class="why-choose-img">
+                <img src="assets/images/service/ethics.png" alt="">
+              </div>
+              <div class="why-choose-content">
+                <h3>Design Mockups</h3>
+                <p>You’ll get design drafts and prototypes to review and refine until they match your vision.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="why-choose-box mb-5">
+              <div class="why-choose-img">
+                <img src="assets/images/service/ethics.png" alt="">
+              </div>
+              <div class="why-choose-content">
+                <h3>Development &amp; Testing</h3>
+                <p>Our developers build and test the design for smooth performance and compatibility across all devices.</p>
+              </div>
+            </div>
+            <div class="why-choose-box mb-5">
+              <div class="why-choose-img">
+                <img src="assets/images/service/ethics.png" alt="">
+              </div>
+              <div class="why-choose-content">
+                <h3>Launch & Optimization</h3>
+                <p>We launch your website and optimize its speed, SEO, and user experience.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     </div>
   </section>
 

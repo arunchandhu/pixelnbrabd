@@ -118,8 +118,7 @@ nav.color {
   #image-caption {
     font-size: 13px;
   }
-
-  footer {
+  footer{
     padding: 40px 0 30px 0;
   }
 
@@ -229,7 +228,7 @@ nav.color {
     text-align: center;
   }
 
-  #subscribeForm input::placeholder {
+ #subscribeForm input::placeholder {
     text-align: center;
     padding: 0;
   }
@@ -261,7 +260,13 @@ nav.color {
   .service-page {
     padding: 50px 0 0 0;
   }
+  .box{
+    min-height: unset;
+    height: auto;
+  }
 }
+
+
 
 /* =========================== */
 /* Responsive Styles */
