@@ -31,7 +31,7 @@
         <div class="col-lg-10 col-md-12 mx-auto mb-4">
           <div class="message">
             <div class="contact-form">
-              <form id="contactForm" method="POST" action="contactform.php">
+              <form id="contactForm" method="POST" action="contactform.php" onsubmit="return validateForm(event)">
                 <div class="row">
                   <div class="col-md-6">
                     <input type="text" name="name" id="contactName" placeholder="Name" required autocomplete="off">

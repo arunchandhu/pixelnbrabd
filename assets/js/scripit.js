@@ -50,3 +50,75 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // Year
 document.getElementById("year").innerHTML = new Date().getFullYear();
+
+
+// Subscribe form validation
+// subscribe-validation.js
+
+document.addEventListener("DOMContentLoaded", function () {
+  const form = document.getElementById("subscribeForm");
+  if (!form) return; // Do nothing if form doesn't exist
+
+  form.addEventListener("submit", function (event) {
+    const emailInput = form.querySelector("input[name='email']");
+    const honeypotInput = form.querySelector("input[name='website']");
+
+    const email = emailInput?.value?.trim() || "";
+    const honeypot = honeypotInput?.value?.trim() || "";
+
+    const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+    // Check if honeypot is filled (bot)
+    if (honeypot !== "") {
+      event.preventDefault();
+      alert("Bot submission detected.");
+      return false;
+    }
+
+    // Check for valid email
+    if (!emailPattern.test(email)) {
+      event.preventDefault();
+      alert("Please enter a valid email address.");
+      emailInput.focus();
+      return false;
+    }
+  });
+});
+
+
+// Contact page validation
+document.addEventListener("DOMContentLoaded", function () {
+  const form = document.getElementById("contactForm");
+  if (!form) return; // Exit if form is not present on the page
+
+  form.addEventListener("submit", function (event) {
+    // Get form inputs
+    const emailInput = form.querySelector("input[name='email']");
+    const honeypotInput = form.querySelector("input[name='website']");
+
+    const email = emailInput?.value?.trim() || "";
+    const honeypot = honeypotInput?.value?.trim() || "";
+
+    const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+    // Honeypot check
+    if (honeypot !== "") {
+      event.preventDefault();
+      alert("Bot submission detected.");
+      return false;
+    }
+
+    // Email validation
+    if (!emailPattern.test(email)) {
+      event.preventDefault();
+      alert("Please enter a valid email address.");
+      emailInput.focus();
+      return false;
+    }
+    
+    // Optional: You can add other validation here if needed (e.g. phone number pattern)
+
+    // If all checks pass, the form will submit normally
+  });
+});
+

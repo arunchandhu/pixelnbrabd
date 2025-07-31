@@ -76,7 +76,7 @@
       </div>
       <div class="row">
         <div class="p-10"></div>
-        <div class="col-md-4">
+        <div class="col-md-4 mb-5">
           <div class="box">
             <h3>Results Over Promises</h3>
             <p>We don’t just talk about what we could do — we show you what we’ve done.
@@ -84,31 +84,31 @@
               customer acquisition, or cost efficiency. Our focus is always on delivering tangible value, not vanity metrics.</p>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 mb-5">
           <div class="box">
             <h3>Strategy Backed by Data</h3>
             <p>Guesswork has no place in our process. Every decision we make is backed by real-time data, analytics, and proven insights. This allows us to optimize campaigns continuously and make informed choices that drive performance and ROI.</p>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 mb-5">
           <div class="box">
             <h3>Agile and Adaptive Approach</h3>
             <p>Markets change. So do customer behaviors. We stay flexible and adjust strategies quickly based on performance, trends, or shifts in your industry — ensuring you stay ahead, not just keep up.</p>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 mb-5">
           <div class="box">
             <h3>Transparent Communication</h3>
             <p>We believe in open, honest communication. You’ll always know where things stand — with clear reporting, regular updates, and full access to performance dashboards. No surprises, no hidden agendas.</p>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 mb-5">
           <div class="box">
             <h3>Tailored Solutions, Not Templates</h3>
             <p>Your business is unique — your strategy should be too. We take the time to understand your goals, audience, and challenges, then build custom solutions that align with your vision and objectives.</p>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 mb-5">
           <div class="box">
             <h3>Dedicated Partnership Mindset</h3>
             <p>We don’t see ourselves as a vendor, but as an extension of your team. Your success is our success, and we work closely with you every step of the way — offering proactive support, insights, and strategic input whenever you need it.</p>
