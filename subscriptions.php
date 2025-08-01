@@ -13,9 +13,6 @@
   <?php include_once('./source/menu.php') ?>
 
   <!-- Subscriptions -->
-  <div class="liquid-glass"></div>
-  <button id="scrollBtn" title="Go to top">▲</button>
-
   <section id="section-banner" class="section-banner display">
     <div class="container">
       <h1>Subscriptions</h1>

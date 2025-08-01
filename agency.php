@@ -12,9 +12,6 @@
   <!-- MENU -->
   <?php include_once('./source/menu.php') ?>
   <!-- Agency -->
-  <div class="liquid-glass"></div>
-  <button id="scrollBtn" title="Go to top">▲</button>
-
   <section id="section-banner" class="section-banner display">
     <div class="container">
       <h1>The Agency</h1>
@@ -80,39 +77,51 @@
         <div class="col-md-4 mb-5">
           <div class="box">
             <h3 class="text-center text-md-start">Results Over Promises</h3>
-            <p class="text-center text-md-start">We don’t just talk about what we could do — we show you what we’ve done.
+            <p class="text-center text-md-start">We don’t just talk about what we could do — we show you what we’ve
+              done.
               Every strategy we implement is tied to measurable outcomes like revenue growth,
-              customer acquisition, or cost efficiency. Our focus is always on delivering tangible value, not vanity metrics.</p>
+              customer acquisition, or cost efficiency. Our focus is always on delivering tangible value, not vanity
+              metrics.</p>
           </div>
         </div>
         <div class="col-md-4 mb-5">
           <div class="box">
             <h3 class="text-center text-md-start">Strategy Backed by Data</h3>
-            <p class="text-center text-md-start">Guesswork has no place in our process. Every decision we make is backed by real-time data, analytics, and proven insights. This allows us to optimize campaigns continuously and make informed choices that drive performance and ROI.</p>
+            <p class="text-center text-md-start">Guesswork has no place in our process. Every decision we make is backed
+              by real-time data, analytics, and proven insights. This allows us to optimize campaigns continuously and
+              make informed choices that drive performance and ROI.</p>
           </div>
         </div>
         <div class="col-md-4 mb-5">
           <div class="box">
             <h3 class="text-center text-md-start">Agile and Adaptive Approach</h3>
-            <p class="text-center text-md-start">Markets change. So do customer behaviors. We stay flexible and adjust strategies quickly based on performance, trends, or shifts in your industry — ensuring you stay ahead, not just keep up.</p>
+            <p class="text-center text-md-start">Markets change. So do customer behaviors. We stay flexible and adjust
+              strategies quickly based on performance, trends, or shifts in your industry — ensuring you stay ahead, not
+              just keep up.</p>
           </div>
         </div>
         <div class="col-md-4 mb-5">
           <div class="box">
             <h3 class="text-center text-md-start">Transparent Communication</h3>
-            <p class="text-center text-md-start">We believe in open, honest communication. You’ll always know where things stand — with clear reporting, regular updates, and full access to performance dashboards. No surprises, no hidden agendas.</p>
+            <p class="text-center text-md-start">We believe in open, honest communication. You’ll always know where
+              things stand — with clear reporting, regular updates, and full access to performance dashboards. No
+              surprises, no hidden agendas.</p>
           </div>
         </div>
         <div class="col-md-4 mb-5">
           <div class="box">
             <h3 class="text-center text-md-start">Tailored Solutions, Not Templates</h3>
-            <p class="text-center text-md-start">Your business is unique — your strategy should be too. We take the time to understand your goals, audience, and challenges, then build custom solutions that align with your vision and objectives.</p>
+            <p class="text-center text-md-start">Your business is unique — your strategy should be too. We take the time
+              to understand your goals, audience, and challenges, then build custom solutions that align with your
+              vision and objectives.</p>
           </div>
         </div>
         <div class="col-md-4 mb-5">
           <div class="box">
             <h3 class="text-center text-md-start">Dedicated Partnership Mindset</h3>
-            <p class="text-center text-md-start">We don’t see ourselves as a vendor, but as an extension of your team. Your success is our success, and we work closely with you every step of the way — offering proactive support, insights, and strategic input whenever you need it.</p>
+            <p class="text-center text-md-start">We don’t see ourselves as a vendor, but as an extension of your team.
+              Your success is our success, and we work closely with you every step of the way — offering proactive
+              support, insights, and strategic input whenever you need it.</p>
           </div>
         </div>
       </div>
@@ -120,19 +129,20 @@
     </div>
   </section>
 
- 
+
 
   <!-- Testimonal -->
   <?php include_once('./source/testimonial.php') ?>
 
 
- <!-- Clients -->
+  <!-- Clients -->
   <section id="portfolio" class="portfolio mb-5">
     <div class="container">
       <div class="service-content work ">
         <div class="services-sub-heading">
           <p class="text-center text-md-end">
-            We work closely with our clients to build digital experiences that not only look great but also perform exceptionally.
+            We work closely with our clients to build digital experiences that not only look great but also perform
+            exceptionally.
           </p>
         </div>
         <div class="services-heading">

@@ -13,12 +13,9 @@
   <?php include_once('./source/menu.php') ?>
 
   <!-- Service -->
-  <div class="liquid-glass"></div>
-  <button id="scrollBtn" title="Go to top">▲</button>
-
   <section id="section-banner" class="section-banner display">
     <div class="container">
-      <h1>What we Do </h1>
+      <h1>What We Do </h1>
     </div>
   </section>
 

@@ -13,9 +13,6 @@
   <?php include_once('./source/menu.php') ?>
 
   <!-- Seo -->
-  <div class="liquid-glass"></div>
-  <button id="scrollBtn" title="Go to top">▲</button>
-
   <section id="section-banner" class="section-banner display">
     <div class="container">
       <h1>SEO &amp; Content Marketing</h1>
@@ -33,24 +30,15 @@
         <div class="col-md-6">
           <div class="content">
             <h1 class="pb-3">SEO &amp; Content Marketing</h1>
-            <h3 class="pb-3">Get found. Stay relevant. Grow organically.</h3>
+            <h3 class="pb-3">Get Found. Stay Relevant. Grow Organically.</h3>
             <p>
-              Ranking on search engines doesn’t happen by chance—it requires a strategic mix of quality content, 
-              technical SEO, and ongoing optimization. Search engines like Google favor websites that are well-structured,
-               fast, and offer real value to users. Our team combines SEO expertise with content skills to optimize your
-                site both technically and creatively. From keyword research and metadata to mobile performance and site architecture, 
-                we create a strong foundation for search engines to easily crawl and rank your site.
-               
+              At Pixel &amp; Brand, we blend the art of storytelling with the science of search to help you rise to the
+              top
+              of search engines—and stay there. Our SEO and content marketing services are built to attract, engage, and
+              convert your ideal audience with meaningful, high-performing content and smart, technical optimization.
             </p>
-            <div class="p-10"></div>
-              <p>
-              But ranking is only half the battle. To turn visitors into loyal customers, you need content that informs, engages, 
-              and builds trust. We create blog posts, landing pages, and resources that are both keyword-optimized and genuinely valuable to your audience. 
-              Each piece reflects your brand voice and business goals while helping you rank higher and attract sustainable organic traffic.
-            </p>
-             <div class="p-10"></div>
             <ul class="offer">
-              <h3 class="mb-4">What We Offer ?</h3>
+              <h3 class="mb-4">Our SEO &amp; Content Marketing Services</h3>
               <li><i class="fa-regular fa-circle-right"></i>
                 <p>On-page &amp; technical SEO</p>
               </li>
@@ -78,15 +66,15 @@
     <div class="container">
       <div class="row">
         <div class="col-12">
-          <div class="service-content py-0 mb-4">
+          <div class="service-content py-5">
             <div class="services-heading">
               <h1>Why Choose Us?</h1>
             </div>
             <div class="services-sub-heading">
               <p>
-                We merge analytics with creativity to build
-                digital strategies that not only perform,
-                but connect.
+                With a deep understanding of both algorithms and audiences,
+                we help businesses attract organic traffic
+                that converts—not just traffic for traffic’s sake.
               </p>
             </div>
           </div>
@@ -100,8 +88,8 @@
                 <img src="assets/images/service/setting.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3>Cross-Platform Experience</h3>
-                <p>We work with all major platforms to deliver a consistent brand experience.</p>
+                <h3> SEO That’s Strategic, Not Surface-Level</h3>
+                <p>We go beyond keywords to build a strong foundation for sustainable growth.</p>
               </div>
             </div>
 
@@ -110,8 +98,8 @@
                 <img src="assets/images/service/setting.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3>Creative Expertise</h3>
-                <p>Our team includes designers, writers, and social media managers who live and breathe creativity.</p>
+                <h3>Content That Connects &amp; Converts</h3>
+                <p>Every blog, page, and post is crafted to deliver value, not fluff.</p>
               </div>
             </div>
           </div>
@@ -121,8 +109,8 @@
                 <img src="assets/images/service/setting.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3>Full-Funnel Approach</h3>
-                <p>From awareness to conversion, we align social efforts with your sales funnel.</p>
+                <h3> Results-Driven, Not Rank-Obsessed</h3>
+                <p>Our success metric isn’t just traffic—it’s qualified leads and conversions.</p>
               </div>
             </div>
             <div class="why-choose-box mb-5">
@@ -130,8 +118,8 @@
                 <img src="assets/images/service/setting.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3> Real Results </h3>
-                <p>We focus on metrics that matter: reach, engagement, leads, and revenue.</p>
+                <h3> In-House Experts</h3>
+                <p>No outsourcing. Our content creators, SEO specialists, and strategists work together in sync.</p>
               </div>
             </div>
           </div>
@@ -149,12 +137,11 @@
     <div class="container">
       <div class="row">
         <div class="col-12">
-          <div class="service-content work">
+          <div class="service-content work py-5">
             <div class="services-sub-heading">
               <p class="text-center text-md-end">
-                We create a clear, data-driven roadmap for digital
-                growth—built in close collaboration with your
-                team and tailored to your goals, audience, and market.
+                At Pixel & Brand, we combine data, creativity, and 
+                consistency to deliver organic growth that lasts.
               </p>
             </div>
             <div class="services-heading">

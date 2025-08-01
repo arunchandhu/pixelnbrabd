@@ -13,9 +13,6 @@
   <?php include_once('./source/menu.php') ?>
 
   <!-- Web Developing -->
-  <div class="liquid-glass"></div>
-  <button id="scrollBtn" title="Go to top">▲</button>
-
   <section id="section-banner" class="section-banner display">
     <div class="container">
       <h1>Website Design & Development</h1>
@@ -27,18 +24,23 @@
       <div class="row">
         <div class="col-md-6">
           <div class="hero-img">
-            <img src="assets/images/service/4.jpg" class="w-100" alt="">
+            <img src="assets/images/service/4.jpg" class="w-100 img-filter" alt="">
           </div>
         </div>
         <div class="col-md-6">
           <div class="content">
             <h1 class="pb-3">Website Design &amp; Development</h1>
-            <h3 class="pb-3">Build a website that works as hard as you do.</h3>
-            <p>Your website should do more than look good — it should convert. We design and build responsive,
-              fast, and user-friendly websites that reflect your brand and help you grow. Whether you need a
-              simple site or a full-scale e-commerce platform, we’ve got you covered.</p>
+            <h3 class="pb-3">Where Creativity Meets Functionality</h3>
+            <p>Your website is often the first impression your audience has of your brand—and at Pixel &amp; Brand, we
+              make
+              sure it’s a lasting one. We design and develop websites that are <b>beautiful, responsive, fast, and built
+                to
+                convert.</b> Whether you're starting from scratch or refreshing an existing site, our custom web
+              solutions are
+              tailored to your goals, audience, and brand identity.</p>
             <div class="p-10"></div>
             <ul class="offer">
+              <h3 class="mb-3">Our Website Design & Development Services</h3>
               <li><i class="fa-regular fa-circle-right"></i>
                 <p>Custom website design</p>
               </li>
@@ -61,7 +63,7 @@
     </div>
   </section>
 
-   <!-- why choose -->
+  <!-- why choose -->
   <section class="pb-5">
     <div class="container">
       <div class="row">
@@ -72,9 +74,8 @@
             </div>
             <div class="services-sub-heading">
               <p>
-                We merge analytics with creativity to build
-                digital strategies that not only perform,
-                but connect.
+                At Pixel &amp; Brand, we create websites that go beyond aesthetics. Every page is built with purpose—to
+                drive engagement, conversions, and long-term success.
               </p>
             </div>
           </div>
@@ -88,8 +89,8 @@
                 <img src="assets/images/service/setting.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3>Experienced Team</h3>
-                <p>Skilled designers, developers, and strategists working together to create impactful websites.</p>
+                <h3>Design-Driven, User-Centered</h3>
+                <p>Your brand is unique—your website should be too. We focus on both form and function.</p>
               </div>
             </div>
 
@@ -98,8 +99,8 @@
                 <img src="assets/images/service/setting.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3>Tailored Solutions</h3>
-                <p>Every project is customized to fit your brand, industry, and audience.</p>
+                <h3>Custom Built, Never Cookie-Cutter</h3>
+                <p>Every website is tailor-made for your business, not built from stock templates.</p>
               </div>
             </div>
           </div>
@@ -109,8 +110,8 @@
                 <img src="assets/images/service/setting.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3>Transparent Communication</h3>
-                <p>You stay informed throughout every stage of the project.</p>
+                <h3>Optimized for Speed, SEO &amp; Conversions</h3>
+                <p>Our sites load fast, rank high, and convert visitors into customers.</p>
               </div>
             </div>
             <div class="why-choose-box mb-5">
@@ -118,8 +119,8 @@
                 <img src="assets/images/service/setting.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3> Focus on ROI</h3>
-                <p>We build websites designed to grow your business and increase conversions.</p>
+                <h3>Secure &amp; Scalable</h3>
+                <p>We follow the latest web standards to ensure your site is safe, fast, and future-ready.</p>
               </div>
             </div>
           </div>
@@ -140,9 +141,8 @@
           <div class="service-content work py-5">
             <div class="services-sub-heading">
               <p class="text-center text-md-end">
-                We create a clear, data-driven roadmap for digital
-                growth—built in close collaboration with your
-                team and tailored to your goals, audience, and market.
+                We combine strategy, creativity, and technical 
+                expertise in a collaborative process:
               </p>
             </div>
             <div class="services-heading">
@@ -160,7 +160,8 @@
               </div>
               <div class="why-choose-content">
                 <h3> Discovery &amp; Planning</h3>
-                <p>We start by understanding your business, target audience, and goals to create a detailed project plan.</p>
+                <p>We start by understanding your business, target audience, and goals to create a detailed project
+                  plan.</p>
               </div>
             </div>
 
@@ -181,7 +182,8 @@
               </div>
               <div class="why-choose-content">
                 <h3>Development &amp; Testing</h3>
-                <p>Our developers build and test the design for smooth performance and compatibility across all devices.</p>
+                <p>Our developers build and test the design for smooth performance and compatibility across all devices.
+                </p>
               </div>
             </div>
             <div class="why-choose-box mb-5">

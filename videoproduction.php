@@ -13,9 +13,6 @@
   <?php include_once('./source/menu.php') ?>
 
   <!-- Video Production -->
-  <div class="liquid-glass"></div>
-  <button id="scrollBtn" title="Go to top">▲</button>
-
   <section id="section-banner" class="section-banner display">
     <div class="container">
       <h1>Video Production</h1>
@@ -34,10 +31,11 @@
           <div class="content">
             <h1 class="pb-3">Video Production</h1>
             <h3 class="pb-3">Tell your story in motion.</h3>
-            <p>Video is one of the most powerful tools for engagement.
-              Whether it’s a brand promo, testimonial, or social media reel,
-              we handle everything from script to screen — delivering high-quality
-              video content that captivates and converts.</p>
+            <p>At Pixel &amp; Brand, we specialize in creating high-impact
+              video content that tells your brand story, engages your audience,
+              and drives results. From concept to final cut, our video
+              production services are tailored to elevate your digital
+              presence and fuel your marketing goals.</p>
             <div class="p-10"></div>
             <ul class="offer">
               <li><i class="fa-regular fa-circle-right"></i>
@@ -62,7 +60,7 @@
     </div>
   </section>
 
-   <!-- why choose -->
+  <!-- why choose -->
   <section class="pb-5">
     <div class="container">
       <div class="row">
@@ -73,9 +71,8 @@
             </div>
             <div class="services-sub-heading">
               <p>
-                We merge analytics with creativity to build
-                digital strategies that not only perform,
-                but connect.
+                We combine creativity, strategy, and technology to produce videos
+                that don’t just look great—they deliver real business results.
               </p>
             </div>
           </div>
@@ -89,8 +86,8 @@
                 <img src="assets/images/service/setting.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3>Cross-Platform Experience</h3>
-                <p>We work with all major platforms to deliver a consistent brand experience.</p>
+                <h3>Strategy-Led, Results-Focused</h3>
+                <p>Every video we create is designed to serve your business objectives—not just look good.</p>
               </div>
             </div>
 
@@ -99,8 +96,8 @@
                 <img src="assets/images/service/setting.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3>Creative Expertise</h3>
-                <p>Our team includes designers, writers, and social media managers who live and breathe creativity.</p>
+                <h3> End-to-End Production</h3>
+                <p>We handle the entire process in-house, ensuring quality, consistency, and accountability.</p>
               </div>
             </div>
           </div>
@@ -110,8 +107,8 @@
                 <img src="assets/images/service/setting.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3>Full-Funnel Approach</h3>
-                <p>From awareness to conversion, we align social efforts with your sales funnel.</p>
+                <h3>Creative Meets Data</h3>
+                <p>Our creative concepts are backed by real insights, trends, and performance analytics.</p>
               </div>
             </div>
             <div class="why-choose-box mb-5">
@@ -119,8 +116,8 @@
                 <img src="assets/images/service/setting.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3> Real Results </h3>
-                <p>We focus on metrics that matter: reach, engagement, leads, and revenue.</p>
+                <h3> Digital-First Mindset</h3>
+                <p>Videos are optimized for performance across web, mobile, and social channels.</p>
               </div>
             </div>
           </div>
@@ -141,9 +138,9 @@
           <div class="service-content work py-5">
             <div class="services-sub-heading">
               <p class="text-center text-md-end">
-                We create a clear, data-driven roadmap for digital
-                growth—built in close collaboration with your
-                team and tailored to your goals, audience, and market.
+                At Pixel &amp; Brand, we approach every brand with a powerful blend of strategic thinking and creative
+                exploration—ensuring that every design decision is not only visually striking but also rooted in
+                purpose, positioning, and long-term brand growth.
               </p>
             </div>
             <div class="services-heading">
@@ -160,8 +157,9 @@
                 <img src="assets/images/service/ethics.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3>Strategy Creation</h3>
-                <p>Tailored social media plans built around your business goals.</p>
+                <h3>Discovery &amp; Strategy</h3>
+                <p>We begin with your goals, audience, and messaging
+                   to shape the story that needs to be told.</p>
               </div>
             </div>
 
@@ -170,19 +168,22 @@
                 <img src="assets/images/service/ethics.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3>Content Production</h3>
-                <p>Creative and consistent content that resonates with your audience.</p>
+                <h3>Production &amp; Filming</h3>
+                <p>With top-tier equipment and experienced crews, we handle everything—from casting to location to
+                  lighting.</p>
               </div>
             </div>
           </div>
+
           <div class="col-md-6">
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
                 <img src="assets/images/service/ethics.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3>Campaign Execution</h3>
-                <p>Launch and manage organic and paid efforts across platforms.</p>
+                <h3>Editing &amp; Post-Production</h3>
+                <p>We bring your vision to life with cinematic editing, motion graphics, sound design, and color
+                  grading.</p>
               </div>
             </div>
             <div class="why-choose-box mb-5">
@@ -190,8 +191,9 @@
                 <img src="assets/images/service/ethics.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3>Monitoring &amp; Optimization</h3>
-                <p>Analyze data and fine-tune campaigns for optimal results.</p>
+                <h3>Delivery &amp; Distribution Support</h3>
+                <p>Final assets are optimized for every platform—and we help you make sure they’re seen by the right
+                  audience.</p>
               </div>
             </div>
           </div>

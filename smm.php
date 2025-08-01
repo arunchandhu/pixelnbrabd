@@ -13,12 +13,9 @@
   <?php include_once('./source/menu.php') ?>
 
   <!-- SMM -->
-  <div class="liquid-glass"></div>
-  <button id="scrollBtn" title="Go to top">▲</button>
-
   <section id="section-banner" class="section-banner display">
     <div class="container">
-      <h1>Social Media Marketing</h1>
+      <h1>Social Media Management</h1>
     </div>
   </section>
 
@@ -27,34 +24,21 @@
       <div class="row">
         <div class="col-md-6 mb-4">
           <div class="hero-img">
-            <img src="assets/images/service/2.jpg" class="w-75" alt="">
+            <img src="assets/images/service/2.jpg" class="w-75 img-filter" alt="">
           </div>
         </div>
         <div class="col-md-6 mb-4">
           <div class="content">
             <h1 class="pb-3">Social Media Management</h1>
-            <h3 class="pb-3">Be where your audience is.</h3>
+            <h3 class="pb-2">We Don’t Just Post. We Manage, Grow, and Convert.</h3>
             <p>
-              In today’s digital-first world, your brand’s success depends on more than just having a
-              social media account—it requires purpose, consistency, and a clear strategy. Social media
-              is a powerful tool for storytelling, engagement, and building trust with your audience.
-               Our <b>Social Media Marketing services</b> are designed to help businesses
-                like yours stay visible, build credibility, and connect with the right people.
-            </p>
-            <div class="p-10"></div>
-            <p>
-              We manage your presence across platforms like Facebook, Instagram, LinkedIn, TikTok, Twitter/X, and YouTube—using
-               a blend of organic content, paid campaigns, and real-time engagement.
-                Every strategy we create is tailored to your industry, audience, and goals.
-            </p>
-            <div class="p-10"></div>
-            <p>
-              Whether you want to boost brand awareness, generate quality leads, build a loyal community, 
-              or improve retention, we design campaigns that deliver measurable, long-term results.
+              At Pixel & Brand, we take the pressure off your team by fully managing your brand’s presence across social
+              platforms. From planning and posting to engaging and optimizing, our social media management services are
+              built to help your brand stay relevant, visible, and valuable in the ever-changing digital space.
             </p>
             <div class="p-10"></div>
             <ul class="offer">
-              <h3 class="mb-3">What We Offer</h3>
+              <h3 class="mb-3">Our Social Media Management Services</h3>
               <li><i class="fa-regular fa-circle-right"></i>
                 <p>Content planning &amp; creation</p>
               </li>
@@ -82,15 +66,14 @@
     <div class="container">
       <div class="row">
         <div class="col-12">
-          <div class="service-content py-0 mb-4">
+          <div class="service-content pt-0 pb-5">
             <div class="services-heading">
               <h1>Why Choose Us?</h1>
             </div>
             <div class="services-sub-heading">
               <p>
-                We merge analytics with creativity to build
-                digital strategies that not only perform,
-                but connect.
+                Managing social media takes time, creativity, and consistency. That’s why brands trust Pixel & Brand to
+                deliver real results—not just random posts. Our team is your team.
               </p>
             </div>
           </div>
@@ -104,8 +87,8 @@
                 <img src="assets/images/service/setting.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3>Cross-Platform Experience</h3>
-                <p>We work with all major platforms to deliver a consistent brand experience.</p>
+                <h3>End-to-End Management</h3>
+                <p>We handle every detail—from planning to posting to engagement.</p>
               </div>
             </div>
 
@@ -114,8 +97,8 @@
                 <img src="assets/images/service/setting.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3>Creative Expertise</h3>
-                <p>Our team includes designers, writers, and social media managers who live and breathe creativity.</p>
+                <h3>Authentic Community Building</h3>
+                <p>We don’t just post—we build relationships with your audience.</p>
               </div>
             </div>
           </div>
@@ -125,8 +108,8 @@
                 <img src="assets/images/service/setting.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3>Full-Funnel Approach</h3>
-                <p>From awareness to conversion, we align social efforts with your sales funnel.</p>
+                <h3> Data-Backed Strategy</h3>
+                <p>Every decision we make is backed by analytics and tailored to your goals.</p>
               </div>
             </div>
             <div class="why-choose-box mb-5">
@@ -134,8 +117,8 @@
                 <img src="assets/images/service/setting.png" alt="">
               </div>
               <div class="why-choose-content">
-                <h3> Real Results </h3>
-                <p>We focus on metrics that matter: reach, engagement, leads, and revenue.</p>
+                <h3> Creative Meets Strategy</h3>
+                <p>Beautiful visuals + meaningful messaging = maximum impact.</p>
               </div>
             </div>
           </div>
@@ -156,9 +139,7 @@
           <div class="service-content work py-5">
             <div class="services-sub-heading">
               <p class="text-center text-md-end">
-                We create a clear, data-driven roadmap for digital
-                growth—built in close collaboration with your
-                team and tailored to your goals, audience, and market.
+                Our streamlined workflow keeps your social media on-brand, on-time, and optimized:
               </p>
             </div>
             <div class="services-heading">

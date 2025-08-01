@@ -13,9 +13,6 @@
   <?php include_once('./source/menu.php') ?>
 
   <!-- Branding -->
-  <div class="liquid-glass"></div>
-  <button id="scrollBtn" title="Go to top">▲</button>
-
   <section id="section-banner" class="section-banner display">
     <div class="container">
       <h1>Branding &amp; Creative Design</h1>
@@ -33,8 +30,10 @@
         <div class="col-md-6">
           <div class="content">
             <h1 class="pb-3">Branding &amp; Creative Design</h1>
-            <h3 class="pb-3">Make your first impression unforgettable</h3>
-            <p>Your brand is your voice, your personality, and your promise — and we make sure it’s heard loud and clear. At Pixel & Brand, we create stunning visual identities that truly represent who you are. From logo design and color palettes to brand guidelines and marketing materials, we help you build a consistent look and feel that connects with your audience.</p>
+            <h3 class="pb-3">Build a Brand That Speaks, Connects, and Lasts</h3>
+            <p>At Pixel & Brand, we believe branding is more than a logo—it’s the full emotional and visual experience
+              people have with your business. Our branding and creative design services are crafted to help you stand
+              out, communicate your values, and build long-term recognition in an increasingly crowded marketplace.</p>
             <div class="p-10"></div>
             <h3>
               What we offer:
@@ -72,9 +71,9 @@
             </div>
             <div class="services-sub-heading">
               <p>
-                Our approach blends insight, creativity,
-                and precision to deliver branding
-                that stands the test of time
+                We’re not just designers; we’re strategic storytellers. Every color, curve, and concept is crafted with
+                intention—to help you connect with your audience, stand apart from competitors, and grow with
+                confidence.
               </p>
             </div>
           </div>
@@ -140,9 +139,9 @@
           <div class="service-content work py-5">
             <div class="services-sub-heading">
               <p class="text-center text-md-end">
-                Every great brand starts with a great
-                 process—ours is built on insight,
-                  creativity, and results.
+                At Pixel &amp; Brand, we approach every brand with a powerful blend of strategic thinking and creative
+                exploration—ensuring that every design decision is not only visually striking but also rooted in
+                purpose, positioning, and long-term brand growth
               </p>
             </div>
             <div class="services-heading">

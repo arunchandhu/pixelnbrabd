@@ -13,19 +13,13 @@
   <?php include_once('./source/menu.php') ?>
 
   <!-- Contact -->
-  <div class="liquid-glass"></div>
-  <button id="scrollBtn" title="Go to top">▲</button>
-
-  <div class="liquid-glass"></div>
-  <button id="scrollBtn" title="Go to top">▲</button>
-
   <section id="section-banner" class="section-banner display">
     <div class="container">
       <h1>Contact Us</h1>
     </div>
   </section>
 
-  <section id="contact" class="service-page">
+  <section id="contact" class="mt-0 mt-md-5">
     <div class="container">
       <div class="row">
         <div class="col-lg-10 col-md-12 mx-auto mb-4">

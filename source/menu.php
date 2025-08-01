@@ -29,8 +29,12 @@
      <ul>
          <li><a href="agency.php">The Agency</a></li>
          <li><a href="subscriptions.php">Subscriptions </a></li>
-         <li class="mobile-drop-down"><a href="services.php">What we Do</a></li>
+         <li class="mobile-drop-down"><a href="services.php">What We Do</a></li>
          <li><a href="projects.php">Projects</a></li>
+         <li><a href="contact.php">Contact Us</a></li>
      </ul>
  </div>
  <!-- Mobile Menu -->
+
+  <div class="liquid-glass"></div>
+  <button id="scrollBtn" title="Go to top">▲</button>
