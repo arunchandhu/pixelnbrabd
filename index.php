@@ -202,17 +202,17 @@
       </div>
       <div class="col-md-6 mb-4">
         <div class="works">
-          <img src="assets/images/works/work-2.jpg" alt="" />
-        </div>
-      </div>
-      <div class="col-md-6 mb-4">
-        <div class="works">
-          <img src="assets/images/works/work-3.jpg" alt="" />
-        </div>
-      </div>
-      <div class="col-md-6 mb-4">
-        <div class="works">
           <img src="assets/images/works/work-4.jpg" alt="" />
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="works">
+          <img src="assets/images/works/work-5.jpg" alt="" />
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="works">
+          <img src="assets/images/works/work-2.jpg" alt="" />
         </div>
       </div>
     </div>
