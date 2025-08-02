@@ -12,6 +12,7 @@
                      <li><a href="subscriptions.php">Subscriptions </a></li>
                      <li class="drop-down"><a href="services.php">What we Do</a> </li>
                      <li><a href="projects.php">Projects</a></li>
+                     <li><a href="team.php">Our Team</a></li>
                  </ul>
                  <button class="menu toggle">
                      <i class="fa-solid fa-bars"></i>
@@ -31,6 +32,7 @@
          <li><a href="subscriptions.php">Subscriptions </a></li>
          <li class="mobile-drop-down"><a href="services.php">What We Do</a></li>
          <li><a href="projects.php">Projects</a></li>
+         <li><a href="team.php">Our Team</a></li>
          <li><a href="contact.php">Contact Us</a></li>
      </ul>
  </div>

@@ -39,6 +39,7 @@
             <li><a href="subscriptions.php">Subscriptions </a></li>
             <li class="drop-down"><a href="services.php">What We Do </a></li>
             <li><a href="projects.php">Projects</a></li>
+            <li><a href="team.php">Our Team</a></li>
           </ul>
         </div>
       </div>
