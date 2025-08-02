@@ -23,7 +23,7 @@
     <section class="cards-info rounded-2 overflow-hidden">
       <section class="prices text-center p-5">
         <h4 class="fw-bold mb-3">Basic Plan</h4>
-        <h1 class="fw-bold mb-2">₹2,499</h1>
+        <h1 class="fw-bold mb-2">₹20,000</h1>
         <h5 class="mb-5">/month</h5>
         <a href="contact.php" class="text-decoration-none p-2 rounded-2 text-white fw-bold d-block m-auto">Get
           started</a>
@@ -58,7 +58,7 @@
     <section class="cards-info rounded-2 overflow-hidden">
       <section class="prices text-center p-5">
         <h4 class="fw-bold mb-3">Standard Plan</h4>
-        <h1 class="fw-bold mb-2">₹6,999</h1>
+        <h1 class="fw-bold mb-2">₹40,000</h1>
         <h5 class="mb-5">/month</h5>
         <a href="contact.php" class="text-decoration-none p-2 rounded-2 text-white fw-bold d-block m-auto">Get
           started</a>
@@ -76,7 +76,7 @@
           </li>
           <li class="d-flex gap-2 mb-3 align-items-center">
             <i class="fa-solid fa-check fs-5"></i>
-            Monthly Ad Management (up to ₹5,000 ad spend)
+            Monthly Ad Management
           </li>
           <li class="d-flex gap-2 mb-3 align-items-center">
             <i class="fa-solid fa-check fs-5"></i>
@@ -105,7 +105,7 @@
     <section class="cards-info rounded-2 overflow-hidden">
       <section class="prices text-center p-5">
         <h4 class="fw-bold mb-3">Premium Plan</h4>
-        <h1 class="fw-bold mb-2">₹14,999</h1>
+        <h1 class="fw-bold mb-2">₹70,000</h1>
         <h5 class="mb-5">/month</h5>
         <a href="contact.php" class="text-decoration-none p-2 rounded-2 text-white fw-bold d-block m-auto">Get
           started</a>
@@ -123,7 +123,7 @@
           </li>
           <li class="d-flex gap-2 mb-3 align-items-center">
             <i class="fa-solid fa-check fs-5"></i>
-            Full Ad Campaign Strategy (Meta + Google) – up to ₹20,000 spend
+            Full Ad Campaign Strategy (Meta + Google)
           </li>
           <li class="d-flex gap-2 mb-3 align-items-center">
             <i class="fa-solid fa-check fs-5"></i>

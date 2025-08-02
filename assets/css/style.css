@@ -615,19 +615,25 @@ section {
   display: block;
   margin: 0 auto;
 }
-.why-choose-box{
+
+.why-choose-box {
   display: grid;
   grid-template-columns: auto 1fr;
   gap: 20px;
 }
 
-.why-choose-box img{
+.why-choose-box img {
   width: 50px;
 }
+
 .img-filter {
-    filter: grayscale(1);
-    transition: filter 0.3s ease;
-  }
+  filter: grayscale(1);
+  transition: filter 0.3s ease;
+}
+
+/* Team Members */
+
+
 /* CSS */
 .button-one {
   display: inline-flex;
@@ -1247,14 +1253,14 @@ main .cards-info .prices a:visited {
 /*======================
     Thank You Page
 =======================*/
-.login-main-wrapper{
+.login-main-wrapper {
   width: 100%;
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
-  background: url('../images/display-1.jpg') ;
+  background: url('../images/display-1.jpg');
   background-size: cover;
   line-height: 2.5rem;
 }
