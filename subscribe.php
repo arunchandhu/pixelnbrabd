@@ -29,7 +29,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $email = filter_var($email, FILTER_SANITIZE_EMAIL);
 
     // ✅ 5. Send email
-    $to = "chandhuarun120@gmail.com";
+    $to = "info@craftrix.com";
     $subject = "New Subscriber";
     $message = "You have a new subscriber: $email";
     $headers = "From: noreply@" . $_SERVER['SERVER_NAME'] . "\r\n";

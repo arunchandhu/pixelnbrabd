@@ -38,7 +38,7 @@
                     <div class="col-md-4 team-box mb-5 p-0 mb-lg-0">
                         <div class="team-members-box">
                             <div class="team-member-img">
-                                <img src="assets/images/team/sir.png" alt="">
+                                <img src="assets/images/team/sir.webp" alt="">
                             </div>
                         </div>
                         <div class="team-member-details">
@@ -65,12 +65,12 @@
                     <div class="col-md-4 team-box mb-5 p-0 mb-lg-0">
                         <div class="team-members-box">
                             <div class="team-member-img">
-                                <img src="assets/images/team/jithu.png" alt="">
+                                <img src="assets/images/team/jithu.webp" alt="">
                             </div>
                         </div>
                         <div class="team-member-details">
                             <h3>Jithu M</h3>
-                            <p>Grapic Designer</p>
+                            <p>Senior Grapic Designer</p>
                         </div>
                         <div class="team-social-media">
                             <ul>
@@ -92,7 +92,7 @@
                     <div class="col-md-4 team-box mb-5 p-0 mb-lg-0">
                         <div class="team-members-box">
                             <div class="team-member-img">
-                                <img src="assets/images/team/aravind.png" alt="">
+                                <img src="assets/images/team/aravind.webp" alt="">
                             </div>
                         </div>
                         <div class="team-member-details">
@@ -122,12 +122,12 @@
                     <div class="col-md-4 team-box mb-5 p-0 mb-lg-0">
                         <div class="team-members-box">
                             <div class="team-member-img">
-                                <img src="assets/images/team/anagha.png" alt="">
+                                <img src="assets/images/team/anagha.webp" alt="">
                             </div>
                         </div>
                         <div class="team-member-details">
                             <h3>Anagha Girish</h3>
-                            <p>Digital Marketing Executive</p>
+                            <p>Customer Account Executive</p>
 
                         </div>
                         <div class="team-social-media">
@@ -150,7 +150,7 @@
                     <div class="col-md-4 team-box mb-5 p-0 mb-lg-0">
                         <div class="team-members-box">
                             <div class="team-member-img">
-                                <img src="assets/images/team/anand-sagar.png" alt="">
+                                <img src="assets/images/team/anand-sagar.webp" alt="">
                             </div>
                         </div>
                         <div class="team-member-details">
@@ -177,7 +177,7 @@
                     <div class="col-md-4 team-box mb-5 p-0 mb-lg-0">
                         <div class="team-members-box">
                             <div class="team-member-img">
-                                <img src="assets/images/team/arun.png" alt="">
+                                <img src="assets/images/team/arun.webp" alt="">
                             </div>
                         </div>
                         <div class="team-member-details">

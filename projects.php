@@ -36,22 +36,22 @@
     <div class="row">
       <div class="col-md-4 mb-4">
         <div class="works">
-          <img src="assets/images/works/work-4.jpg" alt="" />
+          <img src="assets/images/works/work-4.webp" alt="" />
         </div>
       </div>
       <div class="col-md-4 mb-4">
         <div class="works">
-          <img src="assets/images/works/work-1.jpg" alt="" />
+          <img src="assets/images/works/work-1.webp" alt="" />
         </div>
       </div>
       <div class="col-md-4 mb-4">
         <div class="works">
-          <img src="assets/images/works/work-5.jpg" alt="" />
+          <img src="assets/images/works/work-5.webp" alt="" />
         </div>
       </div>
       <div class="col-md-4 mb-4">
         <div class="works">
-          <img src="assets/images/works/work-2.jpg" alt="" />
+          <img src="assets/images/works/work-2.webp" alt="" />
         </div>
       </div>
        <div class="col-md-4 mb-4">
@@ -61,7 +61,7 @@
       </div>
       <div class="col-md-4 mb-4">
         <div class="works">
-          <img src="assets/images/works/work-3.jpg" alt="" />
+          <img src="assets/images/works/work-3.webp" alt="" />
         </div>
       </div>
     </div>

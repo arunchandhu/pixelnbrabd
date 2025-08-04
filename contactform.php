@@ -24,7 +24,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     }
 
     // 3. Email content
-    $to = "chandhuarun120@gmail.com";  // Where you want to receive
+    $to = "info@craftrix.com";  // Where you want to receive
     $subject = "New Contact Form Submission from $name";
 
     $message = "You have a new contact form submission:\n\n";
