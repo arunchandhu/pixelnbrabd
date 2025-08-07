@@ -40,6 +40,7 @@
             <li class="drop-down"><a href="services.php">What We Do </a></li>
             <li><a href="projects.php">Projects</a></li>
             <li><a href="team.php">Our Team</a></li>
+            <!-- <li><a href="clients.php">Our Clients</a></li> -->
           </ul>
         </div>
       </div>
@@ -86,11 +87,43 @@
 </footer>
 
 <div class="whats-app">
-  <a href="https://wa.me/+918086488003?text=Hi%20there%20please%20share%20your%20service%20details...!" target="_blank"><img src="assets/images/whatsapp.png" alt=""></a>
+  <a href="https://wa.me/+918086488003?text=Hi%20there%20please%20share%20your%20service%20details...!"
+    target="_blank"><img src="assets/images/whatsapp.png" alt=""></a>
 </div>
 
 <script src="assets/js/scripit.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
+<!-- Swiper -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const swiper = new Swiper(".clientsSwiper", {
+      slidesPerView: 6,
+      spaceBetween: 10,
+      loop: true,
+      speed: 1000, // Smooth transition (in milliseconds)
+      autoplay: {
+        delay: 2000, // Time between transitions
+        disableOnInteraction: false,
+      },
+      breakpoints: {
+        1024: {
+          slidesPerView: 6,
+        },
+        768: {
+          slidesPerView: 4,
+        },
+        520: {
+          slidesPerView: 3,
+        },
+        320: {
+          slidesPerView: 2,
+        }
+      }
+    });
+  });
+</script>
 
 </body>
 

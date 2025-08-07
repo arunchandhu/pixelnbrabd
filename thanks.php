@@ -4,6 +4,7 @@
  * Template Name:THANK YOU PAGE
  */
 ?>
+
 <!-- Header -->
 <?php include_once('./source/header.php') ?>
 

@@ -38,7 +38,7 @@
                     <div class="col-md-4 team-box mb-5 p-0 mb-lg-0">
                         <div class="team-members-box">
                             <div class="team-member-img">
-                                <img src="assets/images/team/sir.webp" alt="">
+                                <img src="assets/images/team/bijin.webp" alt="">
                             </div>
                         </div>
                         <div class="team-member-details">
@@ -70,7 +70,7 @@
                         </div>
                         <div class="team-member-details">
                             <h3>Jithu M</h3>
-                            <p>Senior Grapic Designer</p>
+                            <p>Senior Graphic Designer</p>
                         </div>
                         <div class="team-social-media">
                             <ul>
@@ -97,7 +97,7 @@
                         </div>
                         <div class="team-member-details">
                             <h3>Aravind AS</h3>
-                            <p>Grapic Designer</p>
+                            <p>Graphic Designer</p>
 
                         </div>
                         <div class="team-social-media">
@@ -201,6 +201,65 @@
                             </ul>
                         </div>
                     </div>
+
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-md-4 team-box mb-5 p-0 mb-lg-0">
+                        <div class="team-members-box">
+                            <div class="team-member-img">
+                                <img src="assets/images/team/jeeva.webp" alt="">
+                            </div>
+                        </div>
+                        <div class="team-member-details">
+                            <h3>Jeeva V</h3>
+                            <p>SEO Developer</p>
+
+                        </div>
+                        <div class="team-social-media">
+                            <ul>
+                                <li>
+                                    <a href="https://www.facebook.com/pixelnbrand" target="_blank"><i
+                                            class="fa-brands fa-facebook-f"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/pixel_and_brand/" target="_blank"><i
+                                            class="fa-brands fa-instagram"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.linkedin.com/in/pixel-and-brand-digital-marketing-agency"
+                                        target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4 team-box mb-5 p-0 mb-lg-0">
+                        <div class="team-members-box">
+                            <div class="team-member-img">
+                                <img src="assets/images/team/shilpa.webp" alt="">
+                            </div>
+                        </div>
+                        <div class="team-member-details">
+                            <h3>Shilpa B</h3>
+                            <p>Co-Opreative Executive</p>
+                        </div>
+                        <div class="team-social-media">
+                            <ul>
+                                <li>
+                                    <a href="https://www.facebook.com/pixelnbrand" target="_blank"><i
+                                            class="fa-brands fa-facebook-f"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/pixel_and_brand/" target="_blank"><i
+                                            class="fa-brands fa-instagram"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.linkedin.com/in/pixel-and-brand-digital-marketing-agency"
+                                        target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
 
                 </div>
             </div>

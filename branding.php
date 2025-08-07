@@ -24,7 +24,7 @@
       <div class="row">
         <div class="col-md-6">
           <div class="hero-img">
-            <img src="assets/images/service/1.jpg" class="w-75" alt="">
+            <img src="assets/images/service/1.webp" loading="lazy" class="w-75" alt="branding">
           </div>
         </div>
         <div class="col-md-6">
@@ -84,7 +84,7 @@
           <div class="col-md-6">
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/setting.png" alt="">
+                <img src="assets/images/service/setting.png" loading="lazy" alt="icon_img">
               </div>
               <div class="why-choose-content">
                 <h3>Strategic Thinking + Beautiful Execution</h3>
@@ -94,7 +94,7 @@
 
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/setting.png" alt="">
+                <img src="assets/images/service/setting.png" loading="lazy" alt="icon_img">
               </div>
               <div class="why-choose-content">
                 <h3>Collaborative Process</h3>
@@ -105,7 +105,7 @@
           <div class="col-md-6">
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/setting.png" alt="">
+                <img src="assets/images/service/setting.png" loading="lazy" alt="icon_img">
               </div>
               <div class="why-choose-content">
                 <h3>Multi-Platform Expertise</h3>
@@ -114,7 +114,7 @@
             </div>
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/setting.png" alt="">
+                <img src="assets/images/service/setting.png" loading="lazy" alt="icon_img">
               </div>
               <div class="why-choose-content">
                 <h3>Future-Proof Design</h3>
@@ -155,7 +155,7 @@
           <div class="col-md-6">
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/ethics.png" alt="">
+                <img src="assets/images/service/ethics.png" loading="lazy" alt="icon_img">
               </div>
               <div class="why-choose-content">
                 <h3>Discovery Session</h3>
@@ -165,7 +165,7 @@
 
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/ethics.png" alt="">
+                <img src="assets/images/service/ethics.png" loading="lazy" alt="icon_img">
               </div>
               <div class="why-choose-content">
                 <h3>Research &amp; Strategy</h3>
@@ -176,7 +176,7 @@
           <div class="col-md-6">
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/ethics.png" alt="">
+                <img src="assets/images/service/ethics.png" loading="lazy" alt="icon_img">
               </div>
               <div class="why-choose-content">
                 <h3>Delivery &amp; Launch Support</h3>
@@ -185,7 +185,7 @@
             </div>
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/ethics.png" alt="">
+                <img src="assets/images/service/ethics.png" loading="lazy" alt="icon_img">
               </div>
               <div class="why-choose-content">
                 <h3>Design Execution</h3>

@@ -24,7 +24,7 @@
       <div class="row">
         <div class="col-md-6">
           <div class="hero-img">
-            <img src="assets/images/service/4.jpg" class="w-100 img-filter" alt="">
+            <img src="assets/images/service/4.webp" class="w-100 img-filter" alt="web-development">
           </div>
         </div>
         <div class="col-md-6">
@@ -86,7 +86,7 @@
           <div class="col-md-6">
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/setting.png" alt="">
+                <img src="assets/images/service/setting.png" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3>Design-Driven, User-Centered</h3>
@@ -96,7 +96,7 @@
 
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/setting.png" alt="">
+                <img src="assets/images/service/setting.png" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3>Custom Built, Never Cookie-Cutter</h3>
@@ -107,7 +107,7 @@
           <div class="col-md-6">
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/setting.png" alt="">
+                <img src="assets/images/service/setting.png" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3>Optimized for Speed, SEO &amp; Conversions</h3>
@@ -116,7 +116,7 @@
             </div>
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/setting.png" alt="">
+                <img src="assets/images/service/setting.png" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3>Secure &amp; Scalable</h3>
@@ -156,7 +156,7 @@
           <div class="col-md-6">
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/ethics.png" alt="">
+                <img src="assets/images/service/ethics.png" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3> Discovery &amp; Planning</h3>
@@ -167,7 +167,7 @@
 
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/ethics.png" alt="">
+                <img src="assets/images/service/ethics.png" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3>Design Mockups</h3>
@@ -178,7 +178,7 @@
           <div class="col-md-6">
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/ethics.png" alt="">
+                <img src="assets/images/service/ethics.png" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3>Development &amp; Testing</h3>
@@ -188,7 +188,7 @@
             </div>
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/ethics.png" alt="">
+                <img src="assets/images/service/ethics.png" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3>Launch & Optimization</h3>

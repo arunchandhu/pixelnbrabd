@@ -24,7 +24,7 @@
       <div class="row">
         <div class="col-md-6 mb-4">
           <div class="hero-img">
-            <img src="assets/images/service/2.jpg" class="w-75 img-filter" alt="">
+            <img src="assets/images/service/2.webp" class="w-75 img-filter" alt="smm">
           </div>
         </div>
         <div class="col-md-6 mb-4">
@@ -84,7 +84,7 @@
           <div class="col-md-6">
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/setting.png" alt="">
+                <img src="assets/images/service/setting.png" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3>End-to-End Management</h3>
@@ -94,7 +94,7 @@
 
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/setting.png" alt="">
+                <img src="assets/images/service/setting.png" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3>Authentic Community Building</h3>
@@ -105,7 +105,7 @@
           <div class="col-md-6">
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/setting.png" alt="">
+                <img src="assets/images/service/setting.png" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3> Data-Backed Strategy</h3>
@@ -114,7 +114,7 @@
             </div>
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/setting.png" alt="">
+                <img src="assets/images/service/setting.png" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3> Creative Meets Strategy</h3>
@@ -153,7 +153,7 @@
           <div class="col-md-6">
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/ethics.png" alt="">
+                <img src="assets/images/service/ethics.png" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3>Strategy Creation</h3>
@@ -163,7 +163,7 @@
 
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/ethics.png" alt="">
+                <img src="assets/images/service/ethics.png" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3>Content Production</h3>
@@ -174,7 +174,7 @@
           <div class="col-md-6">
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/ethics.png" alt="">
+                <img src="assets/images/service/ethics.png" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3>Campaign Execution</h3>
@@ -183,7 +183,7 @@
             </div>
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/ethics.png" alt="">
+                <img src="assets/images/service/ethics.png" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3>Monitoring &amp; Optimization</h3>

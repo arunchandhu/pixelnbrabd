@@ -23,7 +23,7 @@
       <div class="row">
         <div class="col-md-6 mb-4">
           <div class="about-img">
-            <img src="assets/images/about.jpg" alt="">
+            <img src="assets/images/about.webp" loading="lazy" alt="agency-img">
           </div>
         </div>
         <div class="col-md-6 mb-4">
@@ -134,10 +134,11 @@
   <!-- Testimonal -->
   <?php include_once('./source/testimonial.php') ?>
 
-  <!-- Clients -->
-  <section id="portfolio" class="portfolio mb-5">
+  <!-- clients -->
+
+  <section id="clients" class="clients">
     <div class="container">
-      <div class="service-content work ">
+      <div class="service-content work py-5">
         <div class="services-sub-heading">
           <p class="text-center text-md-end">
             We work closely with our clients to build digital experiences that not only look great but also perform
@@ -145,49 +146,48 @@
           </p>
         </div>
         <div class="services-heading">
-          <h1>Our clients</h1>
+          <h1>Our Clients</h1>
         </div>
       </div>
-      <div class="row justify-content-center">
-        <div class="col-lg-3 col-md-4 col-sm-12 mb-5">
-          <div class="client-img">
-            <img src="assets/images/client/aand.png" class="w-25" alt="">
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-12 mb-5">
-          <div class="client-img">
-            <img src="assets/images/client/canawin.png" class="w-25" alt="">
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-12 mb-5">
-          <div class="client-img">
-            <img src="assets/images/client/chez.png" class="w-25" alt="">
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-12 mb-5">
-          <div class="client-img">
-            <img src="assets/images/client/coffee-cakes.png" class="w-25" alt="">
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-12 mb-5">
-          <div class="client-img">
-            <img src="assets/images/client/fairy-tails.png" class="w-25" alt="">
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-12 mb-5">
-          <div class="client-img">
-            <img src="assets/images/client/interface.png" class="w-25" alt="">
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-4 col-sm-12 mb-5">
-          <div class="client-img">
-            <img src="assets/images/client/peqpainting.png" class="w-25" alt="">
-          </div>
+      <div class="swiper clientsSwiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide"><img src="assets/images/client/1.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/2.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/3.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/4.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/5.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/6.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/7.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/8.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/9.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/10.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/11.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/12.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/13.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/14.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/15.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/16.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/17.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/18.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/20.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/21.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/22.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/23.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/24.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/25.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/26.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/27.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/28.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/29.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/30.webp" loading="lazy" alt="client-img"></div>
+          <div class="swiper-slide"><img src="assets/images/client/31.webp" loading="lazy" alt="client-img"></div>
         </div>
       </div>
     </div>
-
   </section>
+
+
+
 
   <!-- CTA BUTTON -->
   <?php include_once('./source/cta.php') ?>

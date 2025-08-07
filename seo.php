@@ -24,7 +24,7 @@
       <div class="row">
         <div class="col-md-6">
           <div class="hero-img">
-            <img src="assets/images/service/3.jpg" class="w-75 img-filter" alt="">
+            <img src="assets/images/service/3.webp" class="w-75 img-filter" alt="seo">
           </div>
         </div>
         <div class="col-md-6">
@@ -85,7 +85,7 @@
           <div class="col-md-6">
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/setting.png" alt="">
+                <img src="assets/images/service/setting.png" loading="lazy" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3> SEO That’s Strategic, Not Surface-Level</h3>
@@ -95,7 +95,7 @@
 
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/setting.png" alt="">
+                <img src="assets/images/service/setting.png" loading="lazy" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3>Content That Connects &amp; Converts</h3>
@@ -106,7 +106,7 @@
           <div class="col-md-6">
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/setting.png" alt="">
+                <img src="assets/images/service/setting.png" loading="lazy" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3> Results-Driven, Not Rank-Obsessed</h3>
@@ -115,7 +115,7 @@
             </div>
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/setting.png" alt="">
+                <img src="assets/images/service/setting.png" loading="lazy" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3> In-House Experts</h3>
@@ -155,7 +155,7 @@
           <div class="col-md-6">
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/ethics.png" alt="">
+                <img src="assets/images/service/ethics.png" loading="lazy" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3> Increase Organic Traffic</h3>
@@ -165,7 +165,7 @@
 
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/ethics.png" alt="">
+                <img src="assets/images/service/ethics.png" loading="lazy" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3>Establish Expertise</h3>
@@ -176,7 +176,7 @@
           <div class="col-md-6">
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/ethics.png" alt="">
+                <img src="assets/images/service/ethics.png" loading="lazy" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3>Engage Your Audience</h3>
@@ -185,7 +185,7 @@
             </div>
             <div class="why-choose-box mb-5">
               <div class="why-choose-img">
-                <img src="assets/images/service/ethics.png" alt="">
+                <img src="assets/images/service/ethics.png" loading="lazy" alt="icon-img">
               </div>
               <div class="why-choose-content">
                 <h3> Improve Search Rankings</h3>
