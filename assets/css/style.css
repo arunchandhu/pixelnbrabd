@@ -1415,3 +1415,13 @@ main .cards-info .prices a:visited {
   width: 120px;
   display: block;
 }
+
+/* ================= */
+/* Our Client page */
+/* ================ */
+.our-client-content{
+  margin: 10px 0;
+}
+.our-client-content h3{
+  color: #bbb;
+}

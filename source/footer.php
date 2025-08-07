@@ -39,8 +39,8 @@
             <li><a href="subscriptions.php">Subscriptions </a></li>
             <li class="drop-down"><a href="services.php">What We Do </a></li>
             <li><a href="projects.php">Projects</a></li>
-            <li><a href="team.php">Our Team</a></li>
-            <!-- <li><a href="clients.php">Our Clients</a></li> -->
+            <li><a href="team.php">Team Members</a></li>
+            <li><a href="clients.php">Our Clients</a></li>
           </ul>
         </div>
       </div>
